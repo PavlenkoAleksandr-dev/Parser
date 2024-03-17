@@ -1,0 +1,17 @@
+D:\PGU\DiplomWork\parser2\parser2\bin\Debug\net7.0\parser2.exe
+D:\PGU\DiplomWork\parser2\parser2\bin\Debug\net7.0\parser2.deps.json
+D:\PGU\DiplomWork\parser2\parser2\bin\Debug\net7.0\parser2.runtimeconfig.json
+D:\PGU\DiplomWork\parser2\parser2\bin\Debug\net7.0\parser2.dll
+D:\PGU\DiplomWork\parser2\parser2\bin\Debug\net7.0\parser2.pdb
+D:\PGU\DiplomWork\parser2\parser2\bin\Debug\net7.0\HtmlAgilityPack.dll
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.csproj.AssemblyReference.cache
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.AssemblyInfoInputs.cache
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.AssemblyInfo.cs
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.csproj.CoreCompileInputs.cache
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.csproj.CopyComplete
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.dll
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\refint\parser2.dll
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.pdb
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\parser2.genruntimeconfig.cache
+D:\PGU\DiplomWork\parser2\parser2\obj\Debug\net7.0\ref\parser2.dll
